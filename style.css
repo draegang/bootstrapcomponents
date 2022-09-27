@@ -1,0 +1,44 @@
+img{
+    display: block;
+    margin: auto;
+    width: 400px; ;
+}
+table{
+    margin: auto;
+    color: grey;
+}
+h6{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 48px;
+}
+hr{
+    border-color: black;
+}
+.Pi-1{
+    background-color:lime ;
+    color:red ;
+    margin:auto ;
+}
+.Pi-2{
+    background-color:red ;
+    color:lime ;
+}
+.Pi-3{
+    background-color:violet ;
+    color:gold ;
+}
+.Pi-4{
+    background-color:gold ;
+    color:violet ;
+}
+.Pi-400{
+    background-color:lightblue ;
+    color:orange ;
+}
+.Home{
+    background-color:orange ;
+    color:lightblue ;
+}
