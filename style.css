@@ -1,7 +1,7 @@
 img{
     display: block;
     margin: auto;
-    width: 400px; ;
+    width: 45%;
 }
 table{
     margin: auto;
@@ -13,6 +13,9 @@ h6{
 h1{
     text-align: center;
     font-size: 48px;
+}
+h2{
+    text-align: center;
 }
 hr{
     border-color: black;
@@ -41,4 +44,9 @@ hr{
 .Home{
     background-color:orange ;
     color:lightblue ;
+    
+}
+.carousel-item {
+    width: 100% !important;
+    height: 75vh;
 }
